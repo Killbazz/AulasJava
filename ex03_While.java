@@ -28,6 +28,6 @@ public class ex03_While {
         }
         System.out.println("\nTotal de pessoas menores de 21 anos: "+menores);
         System.out.println("\nTotal de pessoas maiores de 50 anos: "+maiores);
-        
+        Do
 	}
 }
