@@ -6,6 +6,7 @@ public class Funcionario {
     private String setorAtuacao;
     private int horasMensais;
     private String salario;
+	new
     
     // método construtor
 
